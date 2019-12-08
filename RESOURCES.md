@@ -39,5 +39,5 @@ Pwn Challenge List - https://pastebin.com/uyifxgPu
 https://github.com/0xBU/workshops/blob/master/x86_exploiting1/%5B0xBU%5DExploiting_X86.pdf
 https://github.com/0xBU/workshops/tree/master/x86_exploiting1
 https://github.com/guyinatuxedo/escape
-
+https://github.com/apsdehal/awesome-ctf
 
