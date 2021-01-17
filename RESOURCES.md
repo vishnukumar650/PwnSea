@@ -12,7 +12,7 @@ These are the resources I have found useful while learning about the binary expl
 - [Article 7](https://hackernoon.com/binary-exploitation-eli5-part-1-9bc23855a3d8)
 - [Article 8](https://tuonilabs.wordpress.com/category/binary-exploitation/)
 - [Article 9](http://www.cse.iitm.ac.in/~chester/courses/17o_sse/slides/3_BufOverflows.pdf)
-- [Article 10]()
+- [Article 10](http://security.cs.rpi.edu/courses/binexp-spring2015/)
   **Youtube Playlists:**
 
 https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
