@@ -14,7 +14,7 @@ These are the resources I have found useful while learning about the binary expl
 - [Article 9](http://www.cse.iitm.ac.in/~chester/courses/17o_sse/slides/3_BufOverflows.pdf)
 - [Article 10](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
-  **Youtube Playlists:**
+**Youtube Playlists:**
 
 - [Playlist 1](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [Playlist 2](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
